@@ -1,14 +1,14 @@
 {
   "name": "upload2qiniu",
   "version": "1.0.0",
-  "description": "",
+  "description": "批量上传图片到七牛",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["pic","qiniu","upload"],
+  "author": "llan",
   "license": "ISC",
   "dependencies": {
     "glob": "^7.1.2",
